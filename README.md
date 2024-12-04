@@ -4,7 +4,7 @@ Bu repo, **5 programlama sorusunun** Java kullanılarak çözümlerini içermekt
 
 ## 📹 YouTube Videosu  
 Çözümleri ve açıklamaları detaylı olarak incelemek için videoya göz atabilirsiniz:  
-[![5 Programlama Sorusu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_of_YouTube_%282013-2015%29.svg/1002px-Logo_of_YouTube_%282013-2015%29.svg.png)](https://youtu.be/j2-QYrcFp40?si=3q7bKGhmg1u0fMKU)  
+[![5 Programlama Sorusu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Logo_of_YouTube_%282013-2015%29.svg/320px-Logo_of_YouTube_%282013-2015%29.svg.png)](https://youtu.be/j2-QYrcFp40?si=3q7bKGhmg1u0fMKU)  
 
 ## 📚 İçerik  
 1. **Java Çözümleri**  
